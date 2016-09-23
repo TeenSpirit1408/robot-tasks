@@ -19,8 +19,7 @@ def task_8_29():
                 break
             if wall_is_on_the_right():
                 break
-    if wall_is_on_the_right:
-        
+
     while not wall_is_above():
         move_up()
     while not wall_is_on_the_left():

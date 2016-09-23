@@ -8,7 +8,7 @@ def task_1_1():
     move_right()
     move_right()
     move_down()
-`
+
 
 if __name__ == '__main__':
     run_tasks()
